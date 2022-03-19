@@ -1,0 +1,69 @@
+1. Setup next app, installed the following dependencies:
+
+ - Styling and Design
+  · @mui/material
+
+ - Useful Functions, Hooks (Utility, Helpers, etc.)
+  · ahooks
+  · lodash
+  · react-helper-hooks
+  · react-hooks-util
+  · react-hooks-utils
+  · react-portal
+  · underscore
+
+ - State Management
+  · react-redux
+  · redux
+  · redux-persist
+  · redux-saga
+  · redux-toolkit
+
+ - Date & Time
+  · date-fns
+
+ - Purification & Sanitization
+  · dompurify
+
+ - Environment Variables and Configuration
+  · dotenv
+
+ - Backend Related
+  · express-ping
+  · socketio
+
+ - Motion Graphics, Animations, Transitions
+  · framer-motion
+
+ - Sorting
+  · muuri
+  · muuri-react
+
+ - Observers
+  · intersection-observer
+  · mutation-observer
+  · resize-observer
+
+ - Performance Monitoring
+  · logrocket
+
+
+ - Base (npm, react, next)
+  · next
+  · npm
+  · react
+  · react-dom
+
+2. Setup app base folder structure
+
+ - assets
+ - components
+ - config
+ - data
+ - Functions and Hooks (Utility, Helper)
+ - layouts
+ - Notes
+ - pages
+ - public
+ - styles
+ - tests
